@@ -12,11 +12,11 @@
 // $port = 3306;
 // $dbname = 'bookshop';
 
-$servername = 'localhost';
-$username = 'root';
-$password = '1234';
-$port = 3306;
-$dbname = 'sample';
+// $servername = 'localhost';
+// $username = 'root';
+// $password = '1234';
+// $port = 3306;
+// $dbname = 'sample';
 
 
 $servername = '162.252.83.203';
