@@ -80,7 +80,7 @@ desired effect
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>BNB</b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>B</b>ooks <b>N</b> <b>B</b>eyond</span>
+      <span class="logo-lg"><b>P</b>arty <b>K</b>ing</span>
     </a>
 
     <!-- Header Navbar -->
