@@ -19,11 +19,11 @@ $port = 3306;
 $dbname = 'sample';
 
 
-// $servername = '162.252.83.203';
-// $username = 'quotrolk';
-// $password = ':8s7DLa5Wd3B!u';
-// $port = 3306;
-// $dbname = 'quotrolk_bookshop';
+$servername = '162.252.83.203';
+$username = 'partykin';
+$password = 'SaGaRa4000';
+$port = 3306;
+$dbname = 'partykin_main';
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 
