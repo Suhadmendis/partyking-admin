@@ -16,7 +16,7 @@ $servername = 'localhost';
 $username = 'root';
 $password = '1234';
 $port = 3306;
-$dbname = 'q_sample';
+$dbname = 'sample';
 
 
 // $servername = '162.252.83.203';

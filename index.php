@@ -39,18 +39,13 @@ if (isset($_GET['url'])) {
         include 'sys_info.php';
     }
 
-    if ($_GET['url'] == "author") {
-        include 'm_author.php';
+    if ($_GET['url'] == "category") {
+        include 'm_category.php';
     }
 
-    if ($_GET['url'] == "vehicle") {
-        include 'm_vehicle.php';
+    if ($_GET['url'] == "sub_category") {
+        include 'm_sub_category.php';
     }
-
-    if ($_GET['url'] == "staff") {
-        include 'm_staff.php';
-    }
-
 
     if ($_GET['url'] == "") {
         include 'dashboard.php';

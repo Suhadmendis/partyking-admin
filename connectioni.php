@@ -10,7 +10,7 @@
 $GLOBALS['hostname'] = 'localhost';
 $GLOBALS['username'] = 'root';
 $GLOBALS['password'] = '1234';
-$GLOBALS['db'] = 'q_sample';
+$GLOBALS['db'] = 'sample';
 
 // $GLOBALS['hostname'] = '162.252.83.203';
 // $GLOBALS['username'] = 'quotrolk';
